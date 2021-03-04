@@ -7,9 +7,9 @@ IP6专区,#genre#
 
 CCTV-1综合高清,http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
 CCTV-1综合高清,http://hdtv.lzu6.edu.cn/hls/jlu_cctv1hd.m3u8
-CCTV 1综合高清,http://hdtv.lzu6.edu.cn/hls/hls27.m3u8
-CCTV1综合高清,http://hdtv.lzu6.edu.cn/hls/hls256.m3u8
-CCTV-1 综合高清,http://hdtv.lzu6.edu.cn/hls/hls74a1.m3u8
+CCTV-1综合高清,http://hdtv.lzu6.edu.cn/hls/hls27.m3u8
+CCTV-1综合高清,http://hdtv.lzu6.edu.cn/hls/hls256.m3u8
+CCTV-1综合高清,http://hdtv.lzu6.edu.cn/hls/hls74a1.m3u8
 CCTV-2财经高清,http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
 CCTV-2财经高清,http://hdtv.lzu6.edu.cn/hls/jlu_cctv2hd.m3u8
 CCTV-2财经高清,http://hdtv.lzu6.edu.cn/hls/hls135.m3u8
