@@ -1,0 +1,2 @@
+1 just_in_time_big-3d,http://192.168.2.30:8096/emby/videos/245/stream.mp4
+2 just_in_time_big-3d,http://192.168.2.30:8096/emby/videos/245/stream.mp4?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83OC4wLjM5MDQuMTA4IFNhZmFyaS81MzcuMzZ8MTYxMzgxODk3Nzk5OA11&MediaSourceId=7527641443efb5318e4ce6d38b211d50&Static=true&PlaySessionId=b363b168f1bb4811a3be565eacf9f326&api_key=d7decf1e8cbf4fa9a9dd6cdaf293e137
