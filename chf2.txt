@@ -1,9 +1,0 @@
-;playing url:
-
-1 just_in_time_big-3d,http://192.168.2.30:8096/emby/videos/245/stream.mp4?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83OC4wLjM5MDQuMTA4IFNhZmFyaS81MzcuMzZ8MTYxMzgxODk3Nzk5OA11&Static=true
-2 特种部队 Special.Forces,http://192.168.2.30:8096/emby/videos/242/stream.mp4?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83OC4wLjM5MDQuMTA4IFNhZmFyaS81MzcuMzZ8MTYxMzgxODk3Nzk5OA11&Static=true
-3 刘真性感魅舞,http://192.168.2.30:8096/emby/videos/33/stream.mp4?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83OC4wLjM5MDQuMTA4IFNhZmFyaS81MzcuMzZ8MTYxMzgxODk3Nzk5OA11&Static=true
-4 爱经之夜,http://192.168.2.30:8096/emby/Items/253/Download?api_key=d7decf1e8cbf4fa9a9dd6cdaf293e137
-5 The.Victorias.Secret.Fashion.Show,http://192.168.2.30:8096/emby/Items/256/Download?api_key=d7decf1e8cbf4fa9a9dd6cdaf293e137
-6 2015 MTV Movie Awards,http://192.168.2.30:8096/emby/Items/248/Download?api_key=d7decf1e8cbf4fa9a9dd6cdaf293e137
-
